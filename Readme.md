@@ -3,12 +3,8 @@
 
 ## Screenshot of images from prediction
 
-![DJI_0268](https://github.com/pgs17/Plastic-FC/assets/104774222/2b9a2c17-2429-4b1f-9414-c2b5627a906c)
-![DJI_0255](https://github.com/pgs17/Plastic-FC/assets/104774222/8c6cdf55-7891-42fa-882d-7760988ef2cc)
+![Detection Screenshot](https://github.com/caraxxe/Plastic-Detection-Using-Drones/blob/main/detection1.png)
 
-
-## Youtube Video Link
-https://www.youtube.com/watch?v=0uo0-pAtFV0
 
 ## Yolov8 Object Detection Project 
 
